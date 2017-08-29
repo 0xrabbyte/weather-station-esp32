@@ -1,4 +1,4 @@
-# Things you shoulg prepare    
+# Things you should prepare    
 I use the things below to make the project:    
 * WEMOS Lolin32 with OLED (It seems to be a fake)    
 * LED    
